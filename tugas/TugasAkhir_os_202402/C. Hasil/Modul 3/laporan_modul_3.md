@@ -53,7 +53,9 @@ Child sees: Y
 Parent sees: X
 ```
 ### 📸 Screenshot:
-![hasil ptest](./screenshot/cowtest.png)
+
+<img width="1919" height="1079" alt="modul3" src="https://github.com/user-attachments/assets/7e092445-9b13-4551-91cd-895ffd34d1c1" />
+
 
 ---
 
