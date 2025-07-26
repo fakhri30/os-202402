@@ -110,10 +110,6 @@ int main() {
 $ chmodtest
 Write blocked as expected
 
-```
-### 📸 Screenshot:
-![hasil chmodtest](./screenshot/chmodtest.png)
-
 ---
 
 ## Bagian B – Device Pseudo /dev/random
