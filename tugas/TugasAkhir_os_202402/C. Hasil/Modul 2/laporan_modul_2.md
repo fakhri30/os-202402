@@ -71,7 +71,8 @@ Jika ada screenshot:
 
 ```
 ![hasil cowtest](./screenshots/cowtest_output.png)
-```
+```<img width="1913" height="1076" alt="Modul2" src="https://github.com/user-attachments/assets/93ca78cf-3de4-411e-b013-c2984c4fc5d2" />
+
 
 ---
 
