@@ -49,9 +49,9 @@ Access denied or error.
 **Output audit oleh PID = 1**
 ```
 === Audit Log ===
-[0] PID=1 SYSCALL=5 TICK=2
-[1] PID=1 SYSCALL=6 TICK=2
-[2] PID=1 SYSCALL=10 TICK=3
+[0] PID=1 SYSCALL=7 TICK=9
+[1] PID=1 SYSCALL=15 TICK=27
+[2] PID=1 SYSCALL=17 TICK=27
 ```
 ---
 ## 📷 Screenshot
