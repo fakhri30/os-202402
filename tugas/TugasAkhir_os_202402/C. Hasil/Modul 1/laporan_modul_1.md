@@ -73,7 +73,8 @@ Jika ada screenshot:
 ![hasil cowtest](./screenshots/cowtest_output.png)
 ```
 
----
+---<img width="479" height="233" alt="Modul1" src="https://github.com/user-attachments/assets/a470e787-8081-4189-b251-237ecb80df14" />
+
 
 ## ⚠️ Kendala yang Dihadapi
 
