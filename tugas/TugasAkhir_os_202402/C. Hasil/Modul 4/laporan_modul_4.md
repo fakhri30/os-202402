@@ -169,7 +169,7 @@ int main() {
 
 ```
 $ randomtest
-201 45 132 88 2 79 234 11
+159 114 41 116 67 198 109 232
 ```
 ### 📸 Screenshot:
 <img width="1919" height="1079" alt="modul 4" src="https://github.com/user-attachments/assets/665fa7f7-e281-45d4-acc1-16519992167b" />
